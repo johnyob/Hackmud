@@ -1,0 +1,2 @@
+# Hackmud
+Scripts for hackmud
